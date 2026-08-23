@@ -1,5 +1,6 @@
 https://github.com/Alex-top/E-Commerce-Bot-Core.git
 
+…or create a new repository on the command line
 echo "# E-Commerce-Bot-Core" >> README.md
 git init
 git add README.md
@@ -8,6 +9,7 @@ git branch -M main
 git remote add origin https://github.com/Alex-top/E-Commerce-Bot-Core.git
 git push -u origin main
 
+…or push an existing repository from the command line
 git remote add origin https://github.com/Alex-top/E-Commerce-Bot-Core.git
 git branch -M main
 git push -u origin main
