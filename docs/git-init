@@ -1,0 +1,18 @@
+https://github.com/Alex-top/E-Commerce-Bot-Core.git
+
+echo "# E-Commerce-Bot-Core" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Alex-top/E-Commerce-Bot-Core.git
+git push -u origin main
+
+git remote add origin https://github.com/Alex-top/E-Commerce-Bot-Core.git
+git branch -M main
+git push -u origin main
+
+---------------------------------------------------------
+Что сделано:
+1. (book_bot) PS C:\Users\Хабирев АЕ\Desktop\python developer\vkontakte\E-commerce-Bot-Core> git init
+Initialized empty Git repository in C:/Users/Хабирев АЕ/Desktop/Python Developer/vkontakte/E-Commerce-Bot-Core/.git/
